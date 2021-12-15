@@ -1,0 +1,29 @@
+.footer {
+  background-color: #001f2a;
+  color: #fff;
+  font-size: 0.9rem;
+  font-family: "Poppins", sans-serif;
+  padding: 5% 0;
+}
+.footer ul li {
+  list-style: none;
+  padding: 3px;
+  font-family: "Big Shoulders Display";
+  letter-spacing: 0.065rem;
+}
+.footer h5 {
+  font-weight: 900;
+}
+.footer input {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  width: 120%;
+}
+.footer .btn {
+  margin-top: 10px;
+  background-color: #b4865e;
+  font-size: 0.85rem;
+  color: #fff;
+  margin-left: 0;
+}

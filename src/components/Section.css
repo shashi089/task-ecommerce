@@ -1,0 +1,171 @@
+.header-title {
+  padding-top: 5%;
+  font-size: 6.5rem;
+  letter-spacing: 0.065rem;
+  font-weight: 900;
+  color: #fff;
+}
+.header-image img {
+  border-radius: 50% 50% 0 0;
+}
+
+.header_container {
+  background-color: #001f2a;
+  width: 100%;
+  padding: 5% 0;
+}
+
+.shop_now_btn {
+  font-size: 1.5rem;
+  font-weight: 800;
+  background-color: #b4865e;
+  color: #fff;
+  width: 40%;
+  height: 60px;
+}
+
+.best_seller_section h1 {
+  padding-top: 3%;
+  font-size: 4rem;
+  color: #000;
+  font-weight: 900;
+}
+.best_cloth_section {
+  margin-top: 100px;
+  flex-direction: row;
+  position: relative;
+  margin: 10% 0;
+}
+.cloth_section img {
+  border-radius: 50% 50% 0 0;
+  height: 85%;
+  padding-left: 10px;
+}
+
+.best_cloth_section .btn,
+.top_brand_section .btn {
+  width: 70%;
+  margin-left: 14%;
+  text-align: center;
+  padding: 10px;
+  font-weight: 600;
+  border: 2px solid #b4865e;
+}
+.seller_container {
+  background-color: #b4865e;
+  color: #fff;
+}
+.seller_container h1 {
+  padding: 15% 0 10% 10%;
+  font-size: 4.5rem;
+  font-weight: 900;
+  letter-spacing: 0.06rem;
+}
+.model_image1 img {
+  width: 100%;
+  padding-left: 10%;
+  border-radius: 35% 0 0 0;
+}
+.model_image2 img {
+  padding-right: 10%;
+  width: 100%;
+  border-radius: 0 35% 0 0;
+}
+
+.wave_fashion_container {
+  background: linear-gradient(
+    to top,
+    #b4865e 25%,
+    #22312f 25%,
+    #22312f 25%,
+    #22312f 25%
+  );
+
+  color: #fff;
+}
+.wave_fashion_container h1,
+.top_brands h1 {
+  font-size: 4rem;
+  font-weight: 900;
+  padding: 8% 0;
+}
+.wave_fashion_image img {
+  border: 3px solid #fff;
+  border-radius: 50% 50% 0 0;
+  height: 90%;
+}
+.top_brand_section {
+  position: relative;
+  width: 100%;
+}
+.best_cloth_section .btn1,
+.best_cloth_section .btn2,
+.best_cloth_section .btn3,
+.best_cloth_section .btn4,
+.top_brand_section .btn1,
+.top_brand_section .btn2,
+.top_brand_section .btn3,
+.top_brand_section .btn4 {
+  background-color: #fff;
+  color: #000;
+  position: absolute;
+  top: 80%;
+  transform: translate(-20%, -20%);
+  width: 16%;
+  text-align: center;
+  font-weight: 600;
+}
+.best_cloth_section .btn1 {
+  left: -7%;
+}
+.best_cloth_section .btn2 {
+  left: 18%;
+}
+.best_cloth_section .btn3 {
+  left: 43%;
+}
+.best_cloth_section .btn4 {
+  left: 68%;
+}
+.top_brand_section .btn1 {
+  left: -7%;
+}
+.top_brand_section .btn2 {
+  left: 18%;
+}
+.top_brand_section .btn3 {
+  left: 43%;
+}
+.top_brand_section .btn4 {
+  left: 69%;
+}
+.top_brand_offer {
+  padding: 3% 0;
+  background-color: #b4865e;
+  margin-top: 15%;
+}
+.top_brand_offer span {
+  color: #b4865e;
+  font-weight: 900;
+  font-size: 3.25rem;
+}
+.top_brand_offer .row {
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.occasional_wears {
+  margin: 6% 0 10% 0;
+}
+.occasional_wears h1 {
+  font-size: 4rem;
+  font-weight: 900;
+  padding: 5%;
+}
+.ocs_wears_image img {
+  border-radius: 50% 50% 0 0;
+  height: 85%;
+  border: 2px solid #b4865e;
+}
